@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiLocacao</name>
+    </assembly>
+    <members>
+        <member name="M:WebApiProdutos.Controllers.ProdutosController.GetId(System.Int32)">
+            <summary>
+            Obtém uma categoria por ID
+            </summary>
+            <param name="id">Codigo categoria</param>
+            <returns> Objetos Produtos</returns>
+        </member>
+    </members>
+</doc>
