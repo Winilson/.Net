@@ -1,0 +1,12 @@
+C:\Users\Winilson\Desktop\Balta\PaymentContext\paymentcontext.Domain\bin\Debug\netstandard2.0\paymentcontext.domain.deps.json
+C:\Users\Winilson\Desktop\Balta\PaymentContext\paymentcontext.Domain\bin\Debug\netstandard2.0\paymentcontext.domain.dll
+C:\Users\Winilson\Desktop\Balta\PaymentContext\paymentcontext.Domain\bin\Debug\netstandard2.0\paymentcontext.domain.pdb
+C:\Users\Winilson\Desktop\Balta\PaymentContext\paymentcontext.Domain\obj\Debug\netstandard2.0\paymentcontext.domain.csprojAssemblyReference.cache
+C:\Users\Winilson\Desktop\Balta\PaymentContext\paymentcontext.Domain\obj\Debug\netstandard2.0\paymentcontext.domain.AssemblyInfoInputs.cache
+C:\Users\Winilson\Desktop\Balta\PaymentContext\paymentcontext.Domain\obj\Debug\netstandard2.0\paymentcontext.domain.AssemblyInfo.cs
+C:\Users\Winilson\Desktop\Balta\PaymentContext\paymentcontext.Domain\obj\Debug\netstandard2.0\paymentcontext.domain.csproj.CoreCompileInputs.cache
+C:\Users\Winilson\Desktop\Balta\PaymentContext\paymentcontext.Domain\obj\Debug\netstandard2.0\paymentcontext.domain.dll
+C:\Users\Winilson\Desktop\Balta\PaymentContext\paymentcontext.Domain\obj\Debug\netstandard2.0\paymentcontext.domain.pdb
+C:\Users\Winilson\Desktop\Balta\PaymentContext\paymentcontext.Domain\bin\Debug\netstandard2.0\paymentcontext.shared.dll
+C:\Users\Winilson\Desktop\Balta\PaymentContext\paymentcontext.Domain\bin\Debug\netstandard2.0\paymentcontext.shared.pdb
+C:\Users\Winilson\Desktop\Balta\PaymentContext\paymentcontext.Domain\obj\Debug\netstandard2.0\paymentcontext.domain.csproj.CopyComplete
