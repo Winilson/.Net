@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.tests\\paymentcontext.tests.csproj": {}
+    "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.tests\\paymentcontext.tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.Domain\\paymentcontext.domain.csproj": {
+    "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.Domain\\paymentcontext.domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.Domain\\paymentcontext.domain.csproj",
+        "projectUniqueName": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.Domain\\paymentcontext.domain.csproj",
         "projectName": "paymentcontext.domain",
-        "projectPath": "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.Domain\\paymentcontext.domain.csproj",
+        "projectPath": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.Domain\\paymentcontext.domain.csproj",
         "packagesPath": "C:\\Users\\Winilson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -33,8 +33,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj": {
-                "projectPath": "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj"
+              "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj": {
+                "projectPath": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj"
               }
             }
           }
@@ -66,18 +66,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj": {
+    "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj",
+        "projectUniqueName": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj",
         "projectName": "paymentcontext.shared",
-        "projectPath": "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj",
+        "projectPath": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj",
         "packagesPath": "C:\\Users\\Winilson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.shared\\obj\\",
+        "outputPath": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -128,18 +128,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.tests\\paymentcontext.tests.csproj": {
+    "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.tests\\paymentcontext.tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.tests\\paymentcontext.tests.csproj",
+        "projectUniqueName": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.tests\\paymentcontext.tests.csproj",
         "projectName": "paymentcontext.tests",
-        "projectPath": "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.tests\\paymentcontext.tests.csproj",
+        "projectPath": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.tests\\paymentcontext.tests.csproj",
         "packagesPath": "C:\\Users\\Winilson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.tests\\obj\\",
+        "outputPath": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -161,11 +161,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.Domain\\paymentcontext.domain.csproj": {
-                "projectPath": "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.Domain\\paymentcontext.domain.csproj"
+              "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.Domain\\paymentcontext.domain.csproj": {
+                "projectPath": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.Domain\\paymentcontext.domain.csproj"
               },
-              "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj": {
-                "projectPath": "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj"
+              "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj": {
+                "projectPath": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj"
               }
             }
           }
@@ -207,12 +207,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

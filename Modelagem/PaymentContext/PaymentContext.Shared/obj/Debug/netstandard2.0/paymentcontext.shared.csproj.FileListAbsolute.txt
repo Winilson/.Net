@@ -7,3 +7,12 @@ C:\Users\Winilson\Desktop\Balta\PaymentContext\paymentcontext.shared\obj\Debug\n
 C:\Users\Winilson\Desktop\Balta\PaymentContext\paymentcontext.shared\obj\Debug\netstandard2.0\paymentcontext.shared.csproj.CoreCompileInputs.cache
 C:\Users\Winilson\Desktop\Balta\PaymentContext\paymentcontext.shared\obj\Debug\netstandard2.0\paymentcontext.shared.dll
 C:\Users\Winilson\Desktop\Balta\PaymentContext\paymentcontext.shared\obj\Debug\netstandard2.0\paymentcontext.shared.pdb
+C:\Users\Winilson\Desktop\.NET\Modelagem\paymentcontext\paymentcontext.shared\bin\Debug\netstandard2.0\paymentcontext.shared.deps.json
+C:\Users\Winilson\Desktop\.NET\Modelagem\paymentcontext\paymentcontext.shared\bin\Debug\netstandard2.0\paymentcontext.shared.dll
+C:\Users\Winilson\Desktop\.NET\Modelagem\paymentcontext\paymentcontext.shared\bin\Debug\netstandard2.0\paymentcontext.shared.pdb
+C:\Users\Winilson\Desktop\.NET\Modelagem\paymentcontext\paymentcontext.shared\obj\Debug\netstandard2.0\paymentcontext.shared.csprojAssemblyReference.cache
+C:\Users\Winilson\Desktop\.NET\Modelagem\paymentcontext\paymentcontext.shared\obj\Debug\netstandard2.0\paymentcontext.shared.AssemblyInfoInputs.cache
+C:\Users\Winilson\Desktop\.NET\Modelagem\paymentcontext\paymentcontext.shared\obj\Debug\netstandard2.0\paymentcontext.shared.AssemblyInfo.cs
+C:\Users\Winilson\Desktop\.NET\Modelagem\paymentcontext\paymentcontext.shared\obj\Debug\netstandard2.0\paymentcontext.shared.csproj.CoreCompileInputs.cache
+C:\Users\Winilson\Desktop\.NET\Modelagem\paymentcontext\paymentcontext.shared\obj\Debug\netstandard2.0\paymentcontext.shared.dll
+C:\Users\Winilson\Desktop\.NET\Modelagem\paymentcontext\paymentcontext.shared\obj\Debug\netstandard2.0\paymentcontext.shared.pdb

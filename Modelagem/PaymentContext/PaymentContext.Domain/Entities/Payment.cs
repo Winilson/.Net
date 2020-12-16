@@ -1,12 +1,16 @@
 using System;
+using PaymentContext.Domain.ValueObjects;
 
-namespace paymentcontext.Domain.Entities
+
+namespace PaymentContext.Domain.Entities
 {
- public abstract class Payment
- {
-        protected Payment(DateTime paidDate, DateTime expiredDate, decimal total, decimal totalPaid, string owner, string document, string address, string email)
+
+
+    public abstract class Payment
+    {
+        protected Payment(DateTime paidDate, DateTime expiredDate, decimal total, decimal totalPaid, string owner, Document document, Address address, Email email)
         {
-            Number = Guid.NewGuid().ToString().Replace("-", "").Substring(0,10).ToUpper();
+            Number = Guid.NewGuid().ToString().Replace("-", "").Substring(0, 10).ToUpper();
             PaidDate = paidDate;
             ExpiredDate = expiredDate;
             Total = total;
@@ -14,19 +18,19 @@ namespace paymentcontext.Domain.Entities
             Owner = owner;
             Document = document;
             Address = address;
-            this.email = email;
+            Email = email;
         }
 
-  public string Number { get; private set; }
-   public DateTime PaidDate { get; private set; }
-   public DateTime ExpiredDate { get; private set; }
-   public Decimal Total { get; private set; }
-   public Decimal TotalPaid { get; private set; }
-   public string Owner { get; private set; }
-   public string Document { get; private set; }
-   public string Address {get; private set;}
-   public string email {get; private set;}
-   
- }   
+        public string Number { get; private set; }
+        public DateTime PaidDate { get; private set; }
+        public DateTime ExpiredDate { get; private set; }
+        public Decimal Total { get; private set; }
+        public Decimal TotalPaid { get; private set; }
+        public string Owner { get; private set; }
+        public Document Document { get; private set; }
+        public Address Address { get; private set; }
+        public Email Email { get; private set; }
+
+    }
 
 }

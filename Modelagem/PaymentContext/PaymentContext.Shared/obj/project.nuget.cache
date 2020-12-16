@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ff2GlO3betcc61pmIB1pJdPpGn/voKatd5MXOTQH7FEaT2N2dy48I+oIQTrQgygsE9dJTWM0Q+zHsm6igfW3Cw==",
+  "dgSpecHash": "6WBlOO+Ak+Rj28XRBDrb8dDKVsDT1pQGARl0lSWwv3ikiUKCx7itlCP3hyf3YAAuPvbjBwXeTHFjkYRTHYpJpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj",
+  "projectFilePath": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Winilson\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Winilson\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

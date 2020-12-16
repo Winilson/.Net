@@ -1,10 +1,10 @@
 using System;
 using System.Collections.Generic;
-namespace paymentcontext.Domain.Entities
+namespace PaymentContext.Domain.Entities
 {
     public class Subscription
     {
-        private IList<Payment> _payments;        
+        private IList<Payment> _payments;
         public Subscription(DateTime? expireDate)
         {
             CreateDate = DateTime.Now;
@@ -17,7 +17,7 @@ namespace paymentcontext.Domain.Entities
         public DateTime CreateDate { get; private set; }
         public DateTime LastUpdateDate { get; private set; }
         public DateTime? ExpireDate { get; private set; }
-        public bool Active {get; private set;}
+        public bool Active { get; private set; }
 
         public IReadOnlyCollection<Payment> Payments { get; set; }
 
@@ -32,7 +32,7 @@ namespace paymentcontext.Domain.Entities
             LastUpdateDate = DateTime.Now;
         }
 
-         public void Inactivate()
+        public void Inactivate()
         {
             Active = false;
             LastUpdateDate = DateTime.Now;

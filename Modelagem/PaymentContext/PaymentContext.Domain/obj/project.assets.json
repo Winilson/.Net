@@ -203,11 +203,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.Domain\\paymentcontext.domain.csproj",
+      "projectUniqueName": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.Domain\\paymentcontext.domain.csproj",
       "projectName": "paymentcontext.domain",
-      "projectPath": "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.Domain\\paymentcontext.domain.csproj",
+      "projectPath": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.Domain\\paymentcontext.domain.csproj",
       "packagesPath": "C:\\Users\\Winilson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -229,8 +229,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj": {
-              "projectPath": "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj"
+            "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj": {
+              "projectPath": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj"
             }
           }
         }
@@ -262,7 +262,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -187,11 +187,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Winilson\\desktop\\balta\\paymentcontext\\paymentcontext.shared\\paymentcontext.shared.csproj",
+      "projectUniqueName": "c:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj",
       "projectName": "paymentcontext.shared",
-      "projectPath": "C:\\Users\\Winilson\\desktop\\balta\\paymentcontext\\paymentcontext.shared\\paymentcontext.shared.csproj",
+      "projectPath": "c:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj",
       "packagesPath": "C:\\Users\\Winilson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Winilson\\desktop\\balta\\paymentcontext\\paymentcontext.shared\\obj\\",
+      "outputPath": "c:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -242,7 +242,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

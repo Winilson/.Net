@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JsgElg7ZfB1rr/n1MhZfLTMNQ7gahypObsScBo77wxTxuldFZh5FvRv98duhAo+9OBhiI1vO5nbthd5WHIuPuw==",
+  "dgSpecHash": "zo6W03RnK5JqKDGjBywQbnp2nTevTNd3o4j/gSGCy9xlumqoOCOoI1IkX28cdOpG3vXjbOFlBnOwS2EkjppJWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Winilson\\Desktop\\Balta\\paymentContext\\paymentcontext.tests\\paymentcontext.tests.csproj",
+  "projectFilePath": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.tests\\paymentcontext.tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Winilson\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Winilson\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
@@ -90,7 +90,8 @@
     "C:\\Users\\Winilson\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\Winilson\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\Winilson\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\Winilson\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\Winilson\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Winilson\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }

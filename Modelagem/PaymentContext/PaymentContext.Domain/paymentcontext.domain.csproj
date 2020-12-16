@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\paymentcontext.shared\paymentcontext.shared.csproj" />
+    <ProjectReference Include="..\PaymentContext.Shared\PaymentContext.Shared.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
