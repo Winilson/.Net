@@ -194,3 +194,4 @@ C:\Users\Winilson\Desktop\.NET\Modelagem\paymentcontext\paymentcontext.tests\obj
 C:\Users\Winilson\Desktop\.NET\Modelagem\paymentcontext\paymentcontext.tests\obj\Debug\netcoreapp3.1\paymentcontext.tests.dll
 C:\Users\Winilson\Desktop\.NET\Modelagem\paymentcontext\paymentcontext.tests\obj\Debug\netcoreapp3.1\paymentcontext.tests.pdb
 C:\Users\Winilson\Desktop\.NET\Modelagem\paymentcontext\paymentcontext.tests\obj\Debug\netcoreapp3.1\paymentcontext.tests.genruntimeconfig.cache
+C:\Users\Winilson\Desktop\.NET\Modelagem\PaymentContext\paymentcontext.tests\bin\Debug\netcoreapp3.1\Flunt.dll
