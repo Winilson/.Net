@@ -1644,7 +1644,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "paymentcontext.domain/1.0.0": {
+      "PaymentContext.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -1652,10 +1652,10 @@
           "paymentcontext.shared": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/paymentcontext.domain.dll": {}
+          "bin/placeholder/PaymentContext.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/paymentcontext.domain.dll": {}
+          "bin/placeholder/PaymentContext.Domain.dll": {}
         }
       },
       "paymentcontext.shared/1.0.0": {
@@ -5754,10 +5754,10 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "paymentcontext.domain/1.0.0": {
+    "PaymentContext.Domain/1.0.0": {
       "type": "project",
-      "path": "../paymentcontext.Domain/paymentcontext.domain.csproj",
-      "msbuildProject": "../paymentcontext.Domain/paymentcontext.domain.csproj"
+      "path": "../PaymentContext.Domain/PaymentContext.Domain.csproj",
+      "msbuildProject": "../PaymentContext.Domain/PaymentContext.Domain.csproj"
     },
     "paymentcontext.shared/1.0.0": {
       "type": "project",
@@ -5770,9 +5770,9 @@
       "MSTest.TestAdapter >= 2.1.0",
       "MSTest.TestFramework >= 2.1.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
+      "PaymentContext.Domain >= 1.0.0",
       "coverlet.collector >= 1.2.0",
       "flunt >= 1.0.5",
-      "paymentcontext.domain >= 1.0.0",
       "paymentcontext.shared >= 1.0.0"
     ]
   },
@@ -5810,8 +5810,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.Domain\\paymentcontext.domain.csproj": {
-              "projectPath": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.Domain\\paymentcontext.domain.csproj"
+            "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
+              "projectPath": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj"
             },
             "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj": {
               "projectPath": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.shared\\paymentcontext.shared.csproj"

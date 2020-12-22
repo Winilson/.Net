@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ewaNVkmJs6StofGrmAOtMy8F16VXZfi5dLK6elTv1CAHSQGYqQB2Rcs1kVoE1DKvptmnizQf1MS3pimCdbRCMA==",
+  "dgSpecHash": "PL+NmnsRlhwmJbNy+ks/OztF7W6FJSwCTBMst2Nn4DiSNgMkjBtJborRKxpJ4TE77/ubr9Ae858Xwe+RqFueKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.Domain\\paymentcontext.domain.csproj",
+  "projectFilePath": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Winilson\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
     "C:\\Users\\Winilson\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

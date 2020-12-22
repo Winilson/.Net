@@ -1,4 +1,5 @@
 using System;
+using System.Linq;
 using System.Collections.Generic;
 using PaymentContext.Shared.Entities;
 using Flunt.Validations;
@@ -22,7 +23,7 @@ namespace PaymentContext.Domain.Entities
         public DateTime? ExpireDate { get; private set; }
         public bool Active { get; private set; }
 
-        public IReadOnlyCollection<Payment> Payments { get; set; }
+        public IReadOnlyCollection<Payment> Payments { get{return _payments.ToArray();}}
 
         public void AddPayment(Payment payment)
         {
