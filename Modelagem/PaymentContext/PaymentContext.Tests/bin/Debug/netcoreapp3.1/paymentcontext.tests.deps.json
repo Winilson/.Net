@@ -11,9 +11,9 @@
           "MSTest.TestAdapter": "2.1.0",
           "MSTest.TestFramework": "2.1.0",
           "Microsoft.NET.Test.Sdk": "16.5.0",
-          "PaymentContext.Domain": "1.0.0",
           "coverlet.collector": "1.2.0",
           "Flunt": "1.0.5",
+          "paymentcontext.domain": "1.0.0",
           "paymentcontext.shared": "1.0.0"
         },
         "runtime": {
@@ -1081,13 +1081,13 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
-      "PaymentContext.Domain/1.0.0": {
+      "paymentcontext.domain/1.0.0": {
         "dependencies": {
           "Flunt": "1.0.5",
           "paymentcontext.shared": "1.0.0"
         },
         "runtime": {
-          "PaymentContext.Domain.dll": {}
+          "paymentcontext.domain.dll": {}
         }
       },
       "paymentcontext.shared/1.0.0": {
@@ -1722,7 +1722,7 @@
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
     },
-    "PaymentContext.Domain/1.0.0": {
+    "paymentcontext.domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

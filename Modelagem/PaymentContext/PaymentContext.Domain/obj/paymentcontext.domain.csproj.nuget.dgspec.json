@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {}
+    "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.Domain\\paymentcontext.domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
+    "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.Domain\\paymentcontext.domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
-        "projectName": "PaymentContext.Domain",
-        "projectPath": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.Domain\\paymentcontext.domain.csproj",
+        "projectName": "paymentcontext.domain",
+        "projectPath": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.Domain\\paymentcontext.domain.csproj",
         "packagesPath": "C:\\Users\\Winilson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\PaymentContext.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Winilson\\Desktop\\.NET\\Modelagem\\PaymentContext\\paymentcontext.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
