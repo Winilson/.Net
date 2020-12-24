@@ -1087,7 +1087,7 @@
           "paymentcontext.shared": "1.0.0"
         },
         "runtime": {
-          "paymentcontext.domain.dll": {}
+          "PaymentContext.Domain.dll": {}
         }
       },
       "paymentcontext.shared/1.0.0": {
